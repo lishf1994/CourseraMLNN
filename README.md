@@ -1,2 +1,4 @@
 # CourseraMLNN
-Coursera's Machine Learning course offered by Andrew Ng from Stanford.  These are for week 5 (Ex4).  The codes that I implemented are "nnCostFuncion" and "sigmoidGradient".
+Download all the files and run the "ex4.m", which will call all other functions, including the "nnCostFunction.m" and "sigmoidGradient.m" that I implemented
+
+This file is a simple neural network code
